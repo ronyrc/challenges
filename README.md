@@ -1,1 +1,1 @@
-# Codility Lessons
+# Code Challenges
